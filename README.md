@@ -1,5 +1,5 @@
 # Pokemon-Clone-OpenGL
-Pokemon Clone made using DirectX 12 and C++ - Restriction: Made it in 7 weeks
+Pokemon Clone made using DirectX 12 and C++ - Restriction: Made it in 3 weeks
 # Synopsis
 In my second year of college I was learning how to code tilemapped 2D games in C++. The objectives for this game were as follows:
 
@@ -15,8 +15,14 @@ The objectives I added for myself were:
 7. Interactable tiles
 8. I have to make a pokemon clone XD
 
-As it was stated at the top, I only had 7 weeks to complete my work. I do however want to continue building it out, but I thought I should commit it as is
-to show what was completed in the allotted time. 
+As it was stated at the top, I only had 3 weeks to complete my work. Everything asside from the external libraries was written from scratch with little inspiration from the internet. In order to get what was completed done in the time I had I spent many sleepless nights writing and planning. I do want to continue building it out to it completion as it can't be considered a game yet. But, as a tribute to what can be done by one person, in a very small frame of time, and without an engine I wanted to post this for you all. 
+
+# How to Play
+If you want to play the game as it was at the end of the 3 week time limit, download the repo and run the .exe inside the folder named: Pokemon Game
+
+If you want to see the progress of the current version it with have to be run in the debugger of Visual Studio using the .sln file.
+
+I will update the repo with more up to date stand alone executables when I reach specific land marks.
 
 # Highlights
 Created a Resource manager that parses a json for tile info and creates textured tiles using coordinates from a sprite sheet
