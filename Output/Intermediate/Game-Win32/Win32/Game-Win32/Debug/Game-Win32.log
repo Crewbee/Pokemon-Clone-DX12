@@ -1,0 +1,109 @@
+﻿  GamePCH.cpp
+  PokeBall.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ScoreNumber.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  UIObject.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PettleburgWoodsMap.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FileIOManager.cpp
+  AIController.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\controllers\aicontroller.cpp(163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\controllers\aicontroller.cpp(170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  AStarPathFinder.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\controllers\astarpathfinder.cpp(226): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\controllers\astarpathfinder.cpp(265): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  OakLabDeskTop.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OakLabMachineTop.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OakLabMap.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OakLabPlantTop.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OakLabTableTop.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ProfessorOak.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\oaklabobjects\professoroak.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\oaklabobjects\professoroak.cpp(309): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\oaklabobjects\professoroak.cpp(310): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\oaklabobjects\professoroak.cpp(311): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\oaklabobjects\professoroak.cpp(312): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TownBoy.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(273): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TownGirl.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(273): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EventHandler.cpp
+  TileMapExtras.cpp
+  TileMapOakLab.cpp
+  TileMapPalletTown.cpp
+  TileMapWoods.cpp
+  Generating Code...
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\towngirl.cpp(264): warning C4715: 'TownGirl::CalculateNextInput': not all control paths return a value
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\pallettownobjects\townboy.cpp(264): warning C4715: 'TownBoy::CalculateNextInput': not all control paths return a value
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\oaklabobjects\professoroak.cpp(278): warning C4715: 'ProfessorOak::CalculateNextInput': not all control paths return a value
+d:\github repos\pokemon-clone-opengl\game\source\controllers\aicontroller.cpp(121): warning C4715: 'AIController::MoveNPC': not all control paths return a value
+d:\github repos\pokemon-clone-opengl\game\source\controllers\aicontroller.cpp(159): warning C4715: 'AIController::CalculateNextInput': not all control paths return a value
+  Compiling...
+  OakLab.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PalletTown.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PetalbergWoods.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SceneManager.cpp
+  GameCamera.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gamecamera.cpp(18): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  OakHouse.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PalletTownMap.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PlayerController.cpp
+  PlayerHouse.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RivalHouse.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Trainer.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\trainer.cpp(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\trainer.cpp(220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\trainer.cpp(221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\trainer.cpp(222): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\game\game.cpp(93): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\game\game.cpp(104): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+d:\github repos\pokemon-clone-opengl\game\source\game\game.cpp(195): warning C4390: ';': empty controlled statement found; is this the intent?
+  Canvas.cpp
+d:\github repos\pokemon-clone-opengl\game\source\mesh\canvas.cpp(217): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+  AnimatedSprite.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameobjects\gameobject.h(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ResourceManager.cpp
+d:\github repos\pokemon-clone-opengl\game\source\gameplayhelpers\resourcemanager.cpp(36): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  TileMap.cpp
+  WinMain.cpp
+  Generating Code...
+     Creating library D:\GitHub Repos\Pokemon-Clone-OpenGL\Output\Game-Win32\Win32\Game-Win32\Debug\Game-Win32.lib and object D:\GitHub Repos\Pokemon-Clone-OpenGL\Output\Game-Win32\Win32\Game-Win32\Debug\Game-Win32.exp
+  Game-Win32.vcxproj -> D:\GitHub Repos\Pokemon-Clone-OpenGL\Output\Game-Win32\Win32\Game-Win32\Debug\Game-Win32.exe

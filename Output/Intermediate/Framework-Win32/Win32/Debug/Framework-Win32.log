@@ -1,0 +1,18 @@
+﻿  FrameworkPCH.cpp
+  FrameworkMain.cpp
+  GLExtensions.cpp
+  WGLExtensions.cpp
+  WindowsHelpers.cpp
+  MyMemory.cpp
+  EventManager.cpp
+  GameCore.cpp
+  GLHelpers.cpp
+  MyMatrix.cpp
+  ShaderProgram.cpp
+  Generating Code...
+  cJSON.c
+  cJSON_Utils.c
+  test.c
+  Generating Code...
+  lodepng.cpp
+  Framework-Win32.vcxproj -> D:\GitHub Repos\Pokemon-Clone-OpenGL\Output\Framework-Win32\Win32\Debug\Framework-Win32.lib
