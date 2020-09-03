@@ -20,8 +20,11 @@ to show what was completed in the allotted time.
 
 # Highlights
 Created a Resource manager that parses a json for tile info and creates textured tiles using coordinates from a sprite sheet
+
 Created Sprite and Tile Managers for animated characters and level generation
+
 Used bit shifting and short arrays to specify tile placement and position for levels
+
 Used canvas layers for depth
 
 # Future Development Plans
