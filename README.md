@@ -32,13 +32,22 @@ Used canvas layers for depth
 
 # Future Development Plans
 I do plan to continue adding to this framework to eventually finish out the Pokemon game. Including:
+
 Added Menus
+
 Adding Pokemon
+
 Adding Items
+
 Adding Battle scene
+
 Adding trainers and gyme leaders
+
 Adding interaction text
+
 Adding Save/Load
+
 Adding Level System
+
 Adding quest completion system
 
