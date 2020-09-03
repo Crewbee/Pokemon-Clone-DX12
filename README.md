@@ -1,5 +1,5 @@
 # Pokemon-Clone-OpenGL
-Pokemon Clone made using DirectX 12 and C++ - Restriction: Made it in 3 weeks
+Pokemon Clone made using OpenGL and C++ - Restriction: Made it in 3 weeks
 # Synopsis
 In my second year of college I was learning how to code tilemapped 2D games in C++. The objectives I had for this game were as follows:
 
