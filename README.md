@@ -41,13 +41,13 @@ Adding Items
 
 Adding Battle scene
 
-Adding trainers and gyme leaders
+Adding Trainers and Gyme Leaders
 
-Adding interaction text
+Adding Player Interaction
 
 Adding Save/Load
 
 Adding Level System
 
-Adding quest completion system
+Adding Quest Completion System
 
