@@ -3,7 +3,7 @@ Pokemon Clone made using DirectX 12 and C++ - Restriction: Made it in 3 weeks
 # Synopsis
 In my second year of college I was learning how to code tilemapped 2D games in C++. The objectives for this game were as follows:
 
-1. Create and link a shader program capable of sampling and displaying textures a data folder
+1. Create and link a shader program capable of sampling and displaying textures from the data folder
 2. Create a tilemap level for your game, with traversable and non-traversable tiles
 3. Have a player character that can be moved by the user
 4. Have AI controlled characters that can navigate the level using A-Star pathfinding method
