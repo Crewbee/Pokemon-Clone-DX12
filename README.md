@@ -19,3 +19,10 @@ As it was stated at the top, I only had 7 weeks to complete my work. I do howeve
 to show what was completed in the allotted time. 
 
 # Highlights
+Created a Resource manager that parses a json for tile info and creates textured tiles using coordinates from a sprite sheet
+Created Sprite and Tile Managers for animated characters and level generation
+Used bit shifting and short arrays to specify tile placement and position for levels
+Used canvas layers for depth
+
+#Future Development Plans
+I do plan to continue adding to this framework to eventually finish out the Pokemon game.
