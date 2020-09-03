@@ -15,6 +15,13 @@ In my second year of college I was learning how to code tilemapped 2D games in C
 As it was stated at the top, I only had given myself only 3 weeks to complete this. Everything asside from the external libraries was written from scratch with little inspiration from the internet. In order to get what was completed done in the time I had I spent many sleepless nights writing and planning. I do want to continue building it out to it completion as it can't be considered a game yet. But, as a tribute to what can be done by one person, in a very small frame of time, and without an engine I wanted to post this for you all. 
 
 # How to Play
+
+Controls:
+
+Use WASD to move the player around the town and forest.
+
+Hint: Professor Oak is waiting in his lab.
+
 If you want to play the game as it was at the end of the 3 week time limit, download the repo and run the .exe inside the folder named: Pokemon Game
 
 If you want to see the progress of the current version it with have to be run in the debugger of Visual Studio using the .sln file.
