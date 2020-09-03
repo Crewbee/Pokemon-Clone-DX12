@@ -24,5 +24,5 @@ Created Sprite and Tile Managers for animated characters and level generation
 Used bit shifting and short arrays to specify tile placement and position for levels
 Used canvas layers for depth
 
-#Future Development Plans
+# Future Development Plans
 I do plan to continue adding to this framework to eventually finish out the Pokemon game.
